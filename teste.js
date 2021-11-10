@@ -1,4 +1,4 @@
-const lucas = ()=> 18
+const lucas = ()=> 25
 console.log(lucas())
 
 
